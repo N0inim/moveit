@@ -5,5 +5,5 @@
 |Sem xingamentos; Exceção quando o colega permitir. | No name calling; Except when the colleague allow.|
 |Limite máximo por musica - 8 mins |  time limit for music - 8 mins|
 |NÃO ofender fãs e RESPEITAR os genêros musicais. | DON'T offend fans and RESPECT the musical genres. |
-|[Comandos do BOT](https://github.com/SlayerDamianBot/basicBot/blob/master/commands.md)|[Commands of BOT](https://github.com/SlayerDamianBot/basicBot/blob/master/commands.md)|
+|[Comandos do BOT](https://github.com/Shadow-Slayer/moveit/blob/master/Comandos.md)|[Commands of BOT](https://github.com/Shadow-Slayer/moveit/blob/master/Comandos.md)|
 |[Emotions](http://www.emoji-cheat-sheet.com/)|[Emotions](http://www.emoji-cheat-sheet.com/)|
