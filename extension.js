@@ -55,7 +55,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "Move-It Bot",
         language: "portuguese",
-        chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
+        chatLink: "https://rawgit.com/Shadow-Slayer/moveit/master/idioma/pt.json",
         maximumAfk: 60,
         afkRemoval: false,
         maximumDc: 60,
@@ -106,6 +106,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://rawgit.com/SlayerDamianBot/basicBot-customization/master/basicBot.js', extend);
+    $.getScript('https://rawgit.com/Shadow-Slayer/moveit/master/Move-It-Bot.js', extend);
 
 }).call(this);
