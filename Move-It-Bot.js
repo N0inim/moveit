@@ -54,7 +54,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/langIndex.json", function (json) {
+        $.get("https://rawgit.com/Shadow-Slayer/moveit/master/idioma/langIndex.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -182,9 +182,9 @@
         status: false,
         name: "Move-It Bot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/SlayerDamianBot/basicBot/master/basicBot.js",
+        scriptLink: "https://rawgit.com/Shadow-Slayer/moveit/master/Move-It-Bot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
+        chatLink: "https://rawgit.com/Shadow-Slayer/moveit/master/idioma/pt.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -192,7 +192,7 @@
         settings: {
             botName: "Move-It Bot",
             language: "portuguese",
-            chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
+            chatLink: "https://rawgit.com/Shadow-Slayer/moveit/master/idioma/pt.json",
             maximumAfk: 60,
             afkRemoval: true,
             maximumDc: 60,
