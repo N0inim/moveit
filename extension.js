@@ -53,11 +53,11 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
-        language: "english",
-        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-        maximumAfk: 120,
-        afkRemoval: true,
+        botName: "Move-It Bot",
+        language: "portuguese",
+        chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
+        maximumAfk: 60,
+        afkRemoval: false,
         maximumDc: 60,
         bouncerPlus: true,
         lockdownEnabled: false,
@@ -66,13 +66,14 @@
         cycleGuard: true,
         maximumCycletime: 10,
         timeGuard: true,
-        maximumSongLength: 10,
-        autodisable: true,
+        maximumSongLength: 8,
+        autodisable: false,
         commandCooldown: 30,
         usercommandsEnabled: true,
-        lockskipPosition: 3,
+        lockskipPosition: 1,
         lockskipReasons: [
             ["theme", "This song does not fit the room theme. "],
+            ["tema", "Sua música não estava de acordo com o tema da sala. "],
             ["op", "This song is on the OP list. "],
             ["history", "This song is in the history. "],
             ["mix", "You played a mix, which is against the rules. "],
@@ -89,13 +90,13 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: null,
+        rulesLink: "http://goo.gl/pDi7H1",
         themeLink: null,
-        fbLink: null,
+        fbLink: "http://goo.gl/gGsuJQ",
         youtubeLink: null,
-        website: null,
-        intervalMessages: [],
-        messageInterval: 5,
+        website: "http://zip.net/bpqDN4",
+        intervalMessages: [":game_die: Hora de fazer a roleta :game_die:"],
+        messageInterval: 4,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
@@ -105,6 +106,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://rawgit.com/Yemasthui/basicBot/master/basicBot.js', extend);
+    $.getScript('https://rawgit.com/SlayerDamianBot/basicBot-customization/master/basicBot.js', extend);
 
 }).call(this);
