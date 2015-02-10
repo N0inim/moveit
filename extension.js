@@ -95,8 +95,8 @@
         fbLink: "http://goo.gl/gGsuJQ",
         youtubeLink: null,
         website: "http://zip.net/bpqDN4",
-        intervalMessages: [":game_die: Hora de fazer a roleta :game_die:"],
-        messageInterval: 4,
+        intervalMessages: [":game_die: Hora de fazer a roleta :game_die:","1","2"],
+        messageInterval: 2,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
