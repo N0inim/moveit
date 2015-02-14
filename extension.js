@@ -95,8 +95,8 @@
         fbLink: "http://goo.gl/gGsuJQ",
         youtubeLink: null,
         website: "http://zip.net/bpqDN4",
-        intervalMessages: [":game_die: Hora de fazer a roleta :game_die:",":game_die: Na roleta você pode tanto ganhar posições, como também perder!!!",":game_die: Faltam 2 músicas para a roleta","/clear",":game_die: Faltam 4 músicas para a roleta"],
-        messageInterval: 1,
+        intervalMessages: [":game_die: Hora de fazer a roleta :game_die:",":game_die: Faltam 2 músicas para a roleta",":game_die: Na roleta você pode tanto ganhar posições, como também perder!!!"],
+        messageInterval: 2,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
