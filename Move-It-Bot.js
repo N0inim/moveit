@@ -662,7 +662,7 @@
                     }
                     setTimeout(function (id) {
                         API.sendChat('/me ' + msg);
-                    }, 90 * 1000);
+                    }, 10 * 1000);
                     return true;
                 }
             },
