@@ -101,7 +101,7 @@
         commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
-            OP: "https://github.com/Shadow-Slayer/moveit/blob/master/blacklists/ExampleOPlist.json"
+            OP: "https://rawgit.com/Shadow-Slayer/moveit/master/blacklists/ExampleOPlist.json"
         }
     }));
 
