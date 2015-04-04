@@ -1,16 +1,30 @@
 {
     "1":{
+        "title": "This is a OP song",
         "mid": "1:OPsongID1"
     },
     "2":{
         "title": "This is a OP song",
-        "author": "The OP band",
         "mid": "1:OPsongID2"
     },
     "3":{
-        "mid": "1:OPsongID3"
+        "title": "Pesadão Tropical - Vem Piranha",
+        "mid": "1:Eyild5Or4NE"
     },
     "4":{
+        "title": "MCs Princesa e Plebeia - Ele quer [Resposta para o MC Pikachu] (Semana Maluca)",
         "mid": "1:FV4bzE3DOx8"
+    },
+    "5":{
+        "title": "Mc Livinho - Na ponta do pe (TR3VS trap remix)",
+        "mid": "1:FvsHu6k4sLA"
+    },
+    "6":{
+        "title": "MC Delano - Devagarinho (K Sling Hook Trap Funk Remix)",
+        "mid": "1:CuJfFx7LxWI"
+    },
+    "7":{
+        "title": "Mc Romantico - Novinha Sensacional (KVSH Trap remix)",
+        "mid": "1:aVMCtlMzhPs"
     }
 }
