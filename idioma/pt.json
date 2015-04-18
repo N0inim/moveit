@@ -15,7 +15,7 @@
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
 
-    "isopen": "/me :game_die: A roleta foi iniciada! Digite !join para entrar!",
+    "isopen": "/me :game_die: A roleta foi iniciada! @djs Digite !join para entrar!",
     "winnerpicked": "/me Parabéns! @%%NAME%% te colocarei de %%POSITION%% na fila.",
 
 
